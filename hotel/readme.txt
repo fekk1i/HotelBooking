@@ -12,10 +12,6 @@ role - admin
 	password - password
 
 role - customer
-	email- azzabi622@gmail.com
-	password- Adham123
-
-role - customer
 	email- guest@gmail.com
 	password- guest123
 
