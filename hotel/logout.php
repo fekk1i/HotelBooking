@@ -1,3 +1,4 @@
+// Edited By Ali El Fekki
 <?php
 // Initialize the session
 session_start();
