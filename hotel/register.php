@@ -1,3 +1,4 @@
+// Edited By Adham El Azzabi, Ali El Fekki
 <?php
 // Include config file
 require_once "connect.php";
