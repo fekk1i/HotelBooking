@@ -1,4 +1,4 @@
-// Edited By Adham El Azzabi, Ali El Fekki
+// Edited By Adham El Azzabi
 <?php
 // Include config file
 require_once "connect.php";
