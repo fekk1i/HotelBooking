@@ -1,3 +1,4 @@
+//edited by Ramy naiem
 <?php
 $path = $_SERVER['DOCUMENT_ROOT'];
 $path .= "/hotel/";
