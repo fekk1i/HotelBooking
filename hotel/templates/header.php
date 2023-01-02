@@ -1,3 +1,5 @@
+//edited by Ali Fekki
+
 <?php 
 
 $server = 'http://' . $_SERVER['SERVER_NAME'] . '/hotel/';
